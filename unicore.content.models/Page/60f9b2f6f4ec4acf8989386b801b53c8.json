@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "Rightful claim", 
+  "language": "eng_GB", 
+  "title": "Can children inherit?", 
+  "primary_category": "c670d634d1fd4a0b80b085e442c24c89", 
+  "created_at": "2015-06-30T21:45:16+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-25T13:45:03.233547+00:00", 
+  "_version": {
+    "package_version": "1.3.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "5e4e08b9725644e48674115484f1e874", 
+    "fbf8cf609ea144e7938310a9b5ee92c7"
+  ], 
+  "id": null, 
+  "content": "1. The first step to take would be to call for a family meeting to try and resolve this issue.\r\n\r\n2. If the family meeting fails to resolve this issue, then the next step would be to report the matter to the office of the Administrator General, or a representative of this office at the district level. \r\n\r\n3. If the above two options fail, then the final alternative is to proceed with this issue to court.\r\n\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-do-children-inheritance", 
+  "uuid": "60f9b2f6f4ec4acf8989386b801b53c8"
+}
