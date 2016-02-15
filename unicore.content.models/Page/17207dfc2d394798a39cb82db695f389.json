@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0ef30ed017e843618e60d4c7d5b4d108"
+  ], 
   "id": null, 
   "content": "From their birth on, children have the right to an officially recognized name and nationality. They have the right to know their parents when this is possible, and to be brought up by them. (Article 7)\r\n \r\nEvery child\u2019s identity shall be recognized and protected. A child\u2019s name, nationality and family relationships constitute the child\u2019s identity.\r\n\r\nIf a child is deprived of his or her identity, the State must work to protect it and help re-establish it. (Article 8)\r\n\r\nNext article:", 
   "source": null, 
