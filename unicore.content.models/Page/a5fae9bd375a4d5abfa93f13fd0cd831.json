@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Les Etats doivent aider les enfants qui ne vivent pas dans leur famille", 
+  "language": "fre_FR", 
+  "title": "Si mes parents ne peuvent pas s'occuper de moi, comment \u00e7a marche ?", 
+  "primary_category": "4433d38410574114a26ddfd5fea3d87c", 
+  "created_at": "2015-12-07T11:45:28+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-12T14:03:59.282664+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "cd84c374ff264498813e4c55493bcf3a"
+  ], 
+  "id": null, 
+  "content": "Quand les parents ou les personnes responsables d\u2019un enfant ne peuvent pas le prot\u00e9ger ou le soigner, alors les \u00c9tats doivent s\u2019en charger. Quand les adultes prennent une d\u00e9cision, ils doivent faire en sorte qu\u2019elle soit bonne pour les enfants. (Article 3) \r\n\r\nUn enfant qui ne peut pas vivre avec sa famille a donc droit \u00e0 la protection et l\u2019aide de l\u2019Etat. Il peut \u00eatre plac\u00e9 dans une famille ou une structure d\u2019accueil, qui devra respecter sa religion, sa culture et sa langue. (Article 20)\r\n\r\nQuand un enfant qui ne peut plus vivre avec ses parents en re\u00e7oit de nouveaux, on parle d\u2019adoption. \r\nCela ne peut se faire que dans le cadre de la loi et si l\u2019adoption am\u00e9liore la vie de l\u2019enfant. L\u2019adoption est permise uniquement si les parents, les repr\u00e9sentants l\u00e9gaux et toutes les personnes concern\u00e9es ont donn\u00e9 leur accord, en connaissance de cause. Ils n\u2019ont pas le droit d\u2019en tirer profit (par exemple de recevoir d\u2019argent). (Article 21)\r\n\r\nLorsqu\u2019un enfant ne vit pas dans sa famille (mais par exemple dans un hopital, une famille d\u2019accueil ou un foyer), sa situation doit \u00eatre r\u00e9examin\u00e9e r\u00e9guli\u00e8rement, pour v\u00e9rifier si ces conditions de vie sont toujours les meilleures pour lui. (Article 25)\r\n\r\nProchain article: \r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "622ee14a5b444f86a0f7457afe658ce4", 
+  "published": null, 
+  "position": 9, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "si-mes-parents-ne-peuvent-pas-soccuper-de-moi-comment-ca-marche", 
+  "uuid": "a5fae9bd375a4d5abfa93f13fd0cd831"
+}

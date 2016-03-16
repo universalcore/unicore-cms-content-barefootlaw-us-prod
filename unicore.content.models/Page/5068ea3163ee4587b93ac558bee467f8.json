@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "L\u2019objectif et les principes de la Convention", 
+  "language": "fre_FR", 
+  "title": "La Convention, qu\u2019est ce que c\u2019est ?", 
+  "primary_category": "b3089e1fe5e8417396846ac6eb363a29", 
+  "created_at": "2015-12-07T11:25:17+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-12T14:03:59.580076+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "524958807d884103bf8427d252ec8f30"
+  ], 
+  "id": null, 
+  "content": "La Convention relative aux droits de l\u2019enfant est un trait\u00e9 international qui reconna\u00eet et prot\u00e8ge les droits sp\u00e9cifiques des enfants. Cela signifie que tous les pays se sont mis d\u2019accord sur des droits qu\u2019il est important de garantir aux enfants pour qu\u2019ils puissent grandir en ayant acc\u00e8s \u00e0 l'\u00e9ducation, la sant\u00e9, ainsi qu\u2019en participant \u00e0 la vie et aux d\u00e9cisions de leur famille et de leur communaut\u00e9.\r\n\r\nQuatre grands principes sont \u00e0 la base de la Convention :\r\n\r\n- la non-discrimination : tous les enfants du monde poss\u00e8dent les droits d\u00e9crits par la Convention, d\u2019o\u00f9 qu\u2019ils viennent, quels qu\u2019ils soient, et quelle que soit leur situation\r\n\r\n- l'int\u00e9r\u00eat sup\u00e9rieur de l'enfant : lorsque les adultes prennent une d\u00e9cision, ils doivent penser en priorit\u00e9 \u00e0 la fa\u00e7on dont cette d\u00e9cision affectera les enfants, et faire ce qu\u2019il y a de mieux pour eux\r\n\r\n- le droit \u00e0 la survie et au d\u00e9veloppement : tous les enfants ont le droit \u00e0 la vie et les gouvernements doivent assurer leur survie et leur d\u00e9veloppement\r\n\r\n- l'opinion de l'Enfant : les enfants ont le droit de s\u2019exprimer librement sur tous les sujets qui les concernent. Leur opinion doit \u00eatre prise en compte en fonction de leur \u00e2ge et de leur maturit\u00e9\r\n\r\n \r\n\t\t\r\nProchain article: ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "336682475f384b2e8cfa1e74aca4163c", 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-convention-quest-ce-que-cest", 
+  "uuid": "5068ea3163ee4587b93ac558bee467f8"
+}

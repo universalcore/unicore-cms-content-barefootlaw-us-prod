@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Tous les enfants doivent avoir une identit\u00e9 reconnue officiellement", 
+  "language": "fre_FR", 
+  "title": "J\u2019ai une identit\u00e9 !", 
+  "primary_category": "4433d38410574114a26ddfd5fea3d87c", 
+  "created_at": "2015-12-07T11:46:23+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-12T14:03:59.769664+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "37e5eba3793f4e88afddd40fd621f4b5"
+  ], 
+  "id": null, 
+  "content": "D\u00e8s leur naissance, les enfants ont le droit d\u2019avoir un nom et une nationalit\u00e9 reconnue officiellement. Lorsque c\u2019est possible, ils ont le droit de conna\u00eetre leurs parents et d\u2019\u00eatre \u00e9lev\u00e9s par eux. (Article 7)\r\n \r\nL\u2019identit\u00e9 de chaque enfant doit \u00eatre reconnue et prot\u00e9g\u00e9e. L\u2019identit\u00e9 d\u2019un enfant, c\u2019est son nom, sa nationalit\u00e9 et ses liens familiaux.\r\nSi un enfant est priv\u00e9 de son identit\u00e9, les Etats doivent le prot\u00e9ger et l\u2019aider \u00e0 la r\u00e9tablir. (Article 8)\r\n\r\nProchain article: ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "ff672ec0e53e4b89af6a41c0c252bf7c", 
+  "published": null, 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "jai-une-identite", 
+  "uuid": "cd84c374ff264498813e4c55493bcf3a"
+}

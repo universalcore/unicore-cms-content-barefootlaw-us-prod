@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Children should go to school and learn", 
+  "language": "eng_GB", 
+  "title": "I learn!", 
+  "primary_category": "9dcbcab865704bfb96e57850beecae4a", 
+  "created_at": "2016-02-15T12:32:26.810346+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-15T12:32:26.810591+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "aecc6f33db6a4367bcc649f74494d309"
+  ], 
+  "id": null, 
+  "content": "Every child has the right and obligation to attend school up to a certain age, and should be encouraged to continue studies as long as possible.\r\n\r\nStates should make primary school free and mandatory for all children. (Article 28)\r\n \r\nChildren should be able to learn different things at school. They have the right to a quality education that supports the flowering of their personalities. School is important as a preparation for adult life, and should, among other things, teach them to live in peace, to protect the environment and to respect other people. (Article 29)\r\n\r\nChildren have the right to know what is important for their welfare. Radio, television, books, newspapers, computers, etc. help them to grow up and educate themselves. Adults should make sure that the information they receive is positive and help them to find and understand whatever information they need. (Article 17)\r\n\r\nNext article: ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "e0d1a1717c1249868a28a7d4a92491d9", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "i-learn", 
+  "uuid": "013747d8121842b2b440aa0c1444835d"
+}

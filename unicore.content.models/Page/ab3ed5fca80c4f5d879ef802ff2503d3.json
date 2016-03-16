@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "La Convenci\u00f3n se aplica a todas las situaciones espec\u00edficas", 
+  "language": "spa_ES", 
+  "title": "\u00a1La ley me protege en todas las situaciones!", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-02-15T12:05:00.794655+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-15T12:05:00.794985+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a79b89120bc34b9e8ea58bd8ca3a7315"
+  ], 
+  "id": null, 
+  "content": "Todos los ni\u00f1os tienen derecho a disponer o elegir su cultura, idioma y religi\u00f3n, incluso cuando \u00e9stos sean minoritarios en el pa\u00eds donde viven. (Art\u00edculo 30)\r\n\r\nTodo ni\u00f1o con discapacidad tiene derecho a la atenci\u00f3n y a una protecci\u00f3n especial. Es preciso ayudarle a que se desarrolle de la mejor manera posible, como si fuera un ni\u00f1o sin discapacidad. Los padres de un ni\u00f1o con discapacidad deben recibir asistencia. (Art\u00edculo 23)\r\n \r\nLos ni\u00f1os que han sido sometidos a situaciones de violencia, malos tratos o negligencia deben recibir protecci\u00f3n especial para poder vivir de nuevo tan normalmente como sea posible. (Art\u00edculo 39)\r\n\r\nA veces, por diversas razones como el hambre o la guerra, los ni\u00f1os deben huir de su hogar. Estos ni\u00f1os tienen derecho a recibir asistencia para sobrevivir y encontrar a sus familias.\r\n\r\nSi han tenido que abandonar su pa\u00eds, tienen derecho al estatuto de refugiado para recibir asistencia y protecci\u00f3n, para beneficiarse de sus derechos. (Art\u00edculo 22)\r\n\r\nEn situaciones de guerra, los ni\u00f1os deben ser protegidos y recibir la atenci\u00f3n que necesitan. Los ni\u00f1os menores de 15 a\u00f1os no deben participar en la guerra ni ser miembros de un ej\u00e9rcito. (Art\u00edculo 38)\r\n\r\nCuando las leyes de un pa\u00eds protejan mejor a\u00fan los derechos de los ni\u00f1os que esta Convenci\u00f3n, se aplicar\u00e1 entonces la legislaci\u00f3n del pa\u00eds. (Art\u00edculo 41)\r\n\r\nSiguiente art\u00edculo:", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "f51bcc45d6c4476b8417f313d96b1317", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-ley-me-protege-en-todas-las-situaciones", 
+  "uuid": "ab3ed5fca80c4f5d879ef802ff2503d3"
+}

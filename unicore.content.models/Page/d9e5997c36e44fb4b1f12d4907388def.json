@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Tous les adultes doivent faire respecter la Convention", 
+  "language": "fre_FR", 
+  "title": "Promis, jur\u00e9 !", 
+  "primary_category": "4433d38410574114a26ddfd5fea3d87c", 
+  "created_at": "2015-12-07T12:06:02.731960+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-12T14:04:00.000873+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "5068ea3163ee4587b93ac558bee467f8"
+  ], 
+  "id": null, 
+  "content": "Tous les pays du monde doivent faire en sorte que les articles de la Convention soient respect\u00e9s. Les pays qui n\u2019ont pas les ressources pour y arriver peuvent \u00eatre aid\u00e9s par les autres. (Article 4)\r\n\r\nLes Etats doivent faire conna\u00eetre et respecter les droits de l\u2019Enfant dans leur pays, aux adultes comme aux enfants. (Article 42)\r\n \r\nLes gouvernements et les organisations internationales (comme l'UNICEF) doivent veiller \u00e0 ce que les enfants b\u00e9n\u00e9ficient de leurs droits.  La Convention leur explique comment travailler ensemble afin que tous les enfants puissent profiter de chacun de leurs droits. (Articles 43 \u2013 54)\r\n\r\nProchain article:", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "3322ca6dc26540129b05c7d066532a9f", 
+  "published": null, 
+  "position": 11, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "promis-jure", 
+  "uuid": "d9e5997c36e44fb4b1f12d4907388def"
+}

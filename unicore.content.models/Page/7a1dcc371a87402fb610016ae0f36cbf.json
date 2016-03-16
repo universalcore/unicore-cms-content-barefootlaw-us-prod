@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "The judicial system must not treat children like adults", 
+  "language": "eng_GB", 
+  "title": "Judges consider my age!", 
+  "primary_category": "9dcbcab865704bfb96e57850beecae4a", 
+  "created_at": "2016-02-15T12:27:41.166150+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-15T12:27:41.166383+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "cce1111a702143baa8711ae5cea02207"
+  ], 
+  "id": null, 
+  "content": "Children who have made mistakes can never be put in prison with adults. Imprisonment is acceptable only if nothing else is possible, and if the child imprisoned is not mistreated. In the case of imprisonment, parents should be able to continue seeing the child, and the child should receive help. Children can never be sentenced to death or life imprisonment. Judges, police and guardians must obey these rules. (Article 37)\r\n\r\nA child guilty of a crime must be treated properly. There must be clear proof of guilt. Every child has the right to a lawyer. The child has the right to treatment and sentencing that respect the child\u2019s rights, given the child\u2019s age, as well as providing for reinsertion in society. (Article 40)  \r\n\r\nNext article: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "a7b306aac70f452abfed1a76cb7c6115", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "judges-consider-my-age", 
+  "uuid": "7a1dcc371a87402fb610016ae0f36cbf"
+}

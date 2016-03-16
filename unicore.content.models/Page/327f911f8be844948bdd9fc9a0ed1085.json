@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Les enfants doivent grandir dans les meilleures conditions", 
+  "language": "fre_FR", 
+  "title": "Je suis en bonne sant\u00e9 !", 
+  "primary_category": "4433d38410574114a26ddfd5fea3d87c", 
+  "created_at": "2015-12-07T13:11:27.434585+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-12T14:03:58.989630+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "596b97b6bea04a2aa7cb5c580420ae88"
+  ], 
+  "id": null, 
+  "content": "Tous les enfants ont le droit d\u2019\u00eatre en vie et de grandir dans de bonnes conditions.  Les gouvernements doivent assurer leur survie et leur d\u00e9veloppement. (Article 6)\r\n\r\nChaque enfant a droit aux meilleurs soins de sant\u00e9 possibles, \u00e0 l\u2019eau potable, \u00e0 des\r\naliments nutritifs, \u00e0 un environnement propre et \u00e0 l\u2019information qui peut l\u2019aider \u00e0 rester en bonne sant\u00e9.\r\nLes Etats doivent tout mettre en oeuvre pour garantir l\u2019acc\u00e8s de tous les enfants aux meilleurs services m\u00e9dicaux et \u00e0 la meilleure situation de sant\u00e9 possible. (Article 24)\r\n\r\nLes enfants ont le droit \u00e0 un niveau de vie suffisant pour leur bon d\u00e9veloppement physique, mental, spirituel, moral et social. Si leurs parents ou ceux qui s\u2019occupent d\u2019eux ont des difficult\u00e9s pour les nourrir, les v\u00eatir ou leur offrir un toit, alors les Etats doivent les aider. (Article 27)\r\n\r\nChaque enfant a le droit d\u2019\u00eatre prot\u00e9g\u00e9 contre la pauvret\u00e9. Si sa famille ou ceux qui s\u2019occupent de lui n\u2019ont pas assez d\u2019argent pour vivre ou l\u2019\u00e9lever, les Etats doivent lui donner acc\u00e8s \u00e0 la s\u00e9curit\u00e9 sociale et aux assurances sociales. (Article 26)\r\n\r\nProchain article: ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "d08708784fbe48c3a6967c3600f58455", 
+  "published": null, 
+  "position": 16, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "je-suis-en-bonne-sante", 
+  "uuid": "327f911f8be844948bdd9fc9a0ed1085"
+}

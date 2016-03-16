@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Children should grow up in optimal conditions", 
+  "language": "eng_GB", 
+  "title": "I am healthy!", 
+  "primary_category": "9dcbcab865704bfb96e57850beecae4a", 
+  "created_at": "2016-02-15T12:31:32.620077+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-15T12:31:32.620524+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "204718f3ebf74382ba1def101cedbd02"
+  ], 
+  "id": null, 
+  "content": "All children have the right to live and grow up under good conditions. Governments must ensure their survival and development. (Article 6)\r\n\r\nAll children have the right to the best health care possible, to drinking water, to nutritious food, to their own environment, and to information that can help them remain in good health.\r\n\r\nStates should do everything to ensure children\u2019s access to the best medical services and the best possible health conditions. (Article 24)\r\n\r\nChildren have the right to a standard of living that is sufficient for their proper physical, mental, spiritual, moral and social development. If their parents or caregivers have difficulty feeding, clothing or housing them, the State shall provide assistance. (Article 27)\r\n\r\nEvery child has the right to be protected against poverty. If family or caregivers lack sufficient money to live or to raise the child, States should provide the child with access to social security and social insurance. (Article 26)\r\n\r\nNext article: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "af6255b3d4914451a3e344c18499e3d7", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "i-am-healthy", 
+  "uuid": "aecc6f33db6a4367bcc649f74494d309"
+}

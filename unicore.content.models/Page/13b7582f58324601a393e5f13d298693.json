@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Los ni\u00f1os no pueden trabajar como los adultos", 
+  "language": "spa_ES", 
+  "title": "\u00a1Juego y descanso!", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-02-15T12:06:05.557219+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-15T12:06:05.557450+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "ab3ed5fca80c4f5d879ef802ff2503d3"
+  ], 
+  "id": null, 
+  "content": "Los ni\u00f1os tienen derecho a jugar, descansar y participar en actividades recreativas adecuadas para su edad. (Art\u00edculo 31)\r\n \r\nLos ni\u00f1os no pueden ser explotados para ganar dinero o para realizar trabajos peligrosos. Si los ni\u00f1os trabajan, sus condiciones de trabajo y horarios deben estar adaptados a su edad, no pueden poner en peligro su salud o seguridad y su salario debe ser razonable. (Art\u00edculo 32)\r\n\r\nSiguiente art\u00edculo:", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "188b1e3edd9d470c8542c94579989d26", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "juego-y-descanso", 
+  "uuid": "13b7582f58324601a393e5f13d298693"
+}

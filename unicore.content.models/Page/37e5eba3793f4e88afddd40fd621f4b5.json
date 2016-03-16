@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Les enfants sont libres de penser et de s\u2019exprimer", 
+  "language": "fre_FR", 
+  "title": "J\u2019ai la parole !", 
+  "primary_category": "4433d38410574114a26ddfd5fea3d87c", 
+  "created_at": "2015-12-07T11:48:50+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-12T14:03:59.094455+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "265af73868854e65b705990f35ade9ac"
+  ], 
+  "id": null, 
+  "content": "Les enfants ont le droit de donner leur opinion sur tous les sujets qui les concernent. Leur opinion doit \u00eatre respect\u00e9e et prise en compte, en fonction de leur \u00e2ge et de leur maturit\u00e9. Avant de prendre une d\u00e9cision importante qui concerne un enfant, il faut lui demander son avis. (Article 12)\r\n\r\nLes enfants ont droit \u00e0 la libert\u00e9 d'expression. Cela signifie qu\u2019il peuvent rechercher, recevoir et partager avec d\u2019autres des informations et leurs id\u00e9es. Par la parole, le dessin, ou encore l\u2019\u00e9criture, les enfants peuvent exprimer toutes leurs pens\u00e9es, \u00e0 condition qu\u2019elles soient respectueuses de la loi et des personnes. (Article 13)\r\n \r\nLes enfants ont droit \u00e0 la libert\u00e9 de pens\u00e9e, de conscience et de religion : ils peuvent choisir leur religion, d\u00e9cider de ne croire en aucun Dieu, et avoir leur propre opinion sur le monde et les personnes. Leurs parents doivent les aider \u00e0 d\u00e9cider, sans les forcer. \r\n\r\nSeule la loi peut limiter la libert\u00e9 d\u2019un enfant de manifester sa religion ou ses convictions. Par exemple, lorsque cette libert\u00e9 menace la s\u00e9curit\u00e9 et l\u2019ordre public. (Article 14)\r\n \r\nLes enfants ont le droit de se r\u00e9unir entre eux ou avec les adultes, de cr\u00e9er ou faire partie d\u2019une association ou d\u2019un groupe,  tant qu\u2019ils respectent la loi et ne nuisent \u00e0 personne. (Article 15)\r\n\r\nProchain article: \r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "882c3ff72bbc4f46a295c59261f36575", 
+  "published": null, 
+  "position": 13, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "jai-la-parole", 
+  "uuid": "37e5eba3793f4e88afddd40fd621f4b5"
+}

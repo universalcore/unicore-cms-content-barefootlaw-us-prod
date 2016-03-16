@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Les parents ont des devoirs envers les enfants", 
+  "language": "fre_FR", 
+  "title": "Mes parents s\u2019occupent de moi !", 
+  "primary_category": "4433d38410574114a26ddfd5fea3d87c", 
+  "created_at": "2015-12-07T11:42:44+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-12T14:03:59.492028+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a5fae9bd375a4d5abfa93f13fd0cd831"
+  ], 
+  "id": null, 
+  "content": "Chaque enfant a le droit de vivre avec ses parents. Si ce n\u2019est pas possible car les parents sont absents ou parce qu\u2019ils le maltraitent, l\u2019enfant conserve le droit de savoir o\u00f9 sont ses parents et peut continuer \u00e0 les voir. (Article 9)\r\n\r\nSi les parents vivent dans des pays diff\u00e9rents, les enfants peuvent les rejoindre. (Article 10)\r\n\r\nLes enfants ont le droit d\u2019avoir une vie priv\u00e9e. La loi doit les prot\u00e9ger des atteintes \u00e0 leur mode de vie, leur famille, leur maison, leur honneur et leur r\u00e9putation. (Article 16)\r\n\r\nLe respect et la r\u00e9alisation des droits de l\u2019enfant sont avant tout l\u2019affaire des parents et des familles. Ils ont des droits et des devoirs, que les Etats doivent respecter. (Article 5)\r\n\r\nLes parents sont tous les deux responsables de l\u2019\u00e9ducation et du d\u00e9veloppement de leur enfant. Ils doivent toujours \u00eatre guid\u00e9s par l\u2019id\u00e9e de faire ce qui est le mieux pour lui. Les Etats doivent s\u2019organiser pour que cela puisse se faire dans les meilleures conditions possibles. Si les parents ne peuvent pas s\u2019occuper de leur enfant, quelqu\u2019un est nomm\u00e9 pour le faire. (Article 18)\r\n\r\nProchain article: ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "0e234dfa385e47a4a657cb9708fcd65c", 
+  "published": null, 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mes-parents-soccupent-de-moi", 
+  "uuid": "48efcaa60dc44b0b86135a0f63859af0"
+}

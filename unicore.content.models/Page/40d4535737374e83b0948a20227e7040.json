@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Los Estados deben ayudar a los ni\u00f1os que no viven con su familia", 
+  "language": "spa_ES", 
+  "title": "\u00bfQu\u00e9 ocurre si mis padres no pueden ocuparse de m\u00ed?", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-02-15T12:11:35.133253+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-15T12:11:35.133526+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "df9c55e2e5fa4de781a0a035c26c6f08"
+  ], 
+  "id": null, 
+  "content": "Cuando los padres o las personas responsables de un ni\u00f1o no pueden proporcionar protecci\u00f3n o asistencia, el Estado debe hacerlo. Las decisiones de los adultos deben promover el bienestar de los ni\u00f1os afectados por estas decisiones. (Art\u00edculo 3)\r\n\r\nAs\u00ed, un ni\u00f1o que no pueda vivir con su familia tiene el derecho a la protecci\u00f3n y ayuda del Estado. El ni\u00f1o puede alojarse con una familia o en una instituci\u00f3n para ni\u00f1os, donde hay que respetar la religi\u00f3n, la cultura y el idioma del ni\u00f1o. (Art\u00edculo 20)\r\n\r\nCuando un ni\u00f1o no puede vivir con sus padres y adquiere nuevos padres, esto se conoce como \u201cadopci\u00f3n\u201d.\r\n\r\nLa adopci\u00f3n debe tener lugar en el marco de la ley y puede ocurrir s\u00f3lo si la adopci\u00f3n mejora la vida del ni\u00f1o. La adopci\u00f3n se permite solamente si los padres, representantes legales y todos los dem\u00e1s interesados han dado su consentimiento con conocimiento de causa. Estas personas no tienen derecho a obtener ning\u00fan beneficio de la adopci\u00f3n (por ejemplo, recibir el dinero). (Art\u00edculo 21)\r\n\r\nCuando un ni\u00f1o no vive con su familia (sino en un hospital, familia de guarda o en una instituci\u00f3n para ni\u00f1os, seg\u00fan sea el caso), es preciso examinar sistem\u00e1ticamente su situaci\u00f3n para determinar si las condiciones de vida siguen siendo \u00f3ptimas para el ni\u00f1o. (Art\u00edculo 25)\r\n\r\nSiguiente art\u00edculo:", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "e64b640fd6044796ab2e2d9dfa708cdd", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "que-ocurre-si-mis-padres-no-pueden-ocuparse-de-mi", 
+  "uuid": "40d4535737374e83b0948a20227e7040"
+}

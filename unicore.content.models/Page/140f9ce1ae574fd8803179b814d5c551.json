@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Los ni\u00f1os deben ir a la escuela y aprender", 
+  "language": "spa_ES", 
+  "title": "\u00a1Aprendo!", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-02-15T12:08:16.479877+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-15T12:08:16.480138+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9a0a605cedce4d0581877a447fc7ec68"
+  ], 
+  "id": null, 
+  "content": "Todo ni\u00f1o tiene el derecho y la obligaci\u00f3n de asistir a la escuela hasta una cierta edad y hay que animarle a que contin\u00fae sus estudios el mayor tiempo posible.\r\n\r\nLos Estados deben promover que la escuela primaria sea gratuita y obligatoria para todos los ni\u00f1os. (Art\u00edculo 28)\r\n \r\nLos ni\u00f1os deber poder aprender cosas diferentes en la escuela. Tienen derecho a una educaci\u00f3n de calidad que favorezca el desarrollo de sus personalidades. La escuela es importante como preparaci\u00f3n para la vida adulta y debe, entre otras cosas, ense\u00f1arles a vivir en paz, a proteger el medio ambiente y a respetar a los dem\u00e1s. (Art\u00edculo 29)\r\n\r\nLos ni\u00f1os tienen derecho a saber lo que es importante para su bienestar. La radio, la televisi\u00f3n, los libros, los peri\u00f3dicos, las computadoras, etc. les ayudan a crecer y educarse. Los adultos deben asegurarse de que la informaci\u00f3n que reciban sea positiva, y ayudarles a encontrar y entender cualquier informaci\u00f3n que necesiten. (Art\u00edculo 17)\r\n\r\nSiguiente art\u00edculo:", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "775f68e7a72f482fb439e6345b221e1f", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "aprendo", 
+  "uuid": "140f9ce1ae574fd8803179b814d5c551"
+}
