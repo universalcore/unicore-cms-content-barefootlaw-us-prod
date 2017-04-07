@@ -6,12 +6,12 @@
   "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
   "created_at": "2016-02-15T12:08:16.479877+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-15T12:08:16.480138+00:00", 
+  "modified_at": "2017-04-07T13:17:08.032197+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "775f68e7a72f482fb439e6345b221e1f", 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "aprendo", 
   "uuid": "140f9ce1ae574fd8803179b814d5c551"
