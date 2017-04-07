@@ -4,14 +4,14 @@
   "language": "spa_ES", 
   "title": "\u00a1Estoy sano!", 
   "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
-  "created_at": "2016-02-15T12:07:08.889189+00:00", 
+  "created_at": "2016-02-15T12:07:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-04-07T13:17:08.173698+00:00", 
+  "modified_at": "2017-04-07T13:25:26.096735+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,7 +19,7 @@
   ], 
   "id": null, 
   "content": "Todos los ni\u00f1os tienen derecho a vivir y crecer en buenas condiciones. Los gobiernos deben garantizar su supervivencia y su desarrollo. (Art\u00edculo 6)\r\n\r\nTodos los ni\u00f1os tienen derecho a recibir la mejor atenci\u00f3n posible de la salud, a disponer de agua potable, de alimentos nutritivos, de un entorno propio y de informaci\u00f3n que pueda ayudarles a mantenerse en un buen estado de salud.\r\n\r\nLos Estados deben hacer todo lo posible para garantizar el acceso de los ni\u00f1os a los mejores servicios m\u00e9dicos y a las mejores condiciones posibles de salud. (Art\u00edculo 24)\r\n\r\nLos ni\u00f1os tienen derecho a un nivel de vida suficiente como para disfrutar de un buen desarrollo f\u00edsico, mental, espiritual, moral y social. Si sus padres o cuidadores tienen dificultades para alimentarlos, vestirles u ofrecerles vivienda, entonces el Estado debe proporcionarles asistencia. (Art\u00edculo 27)\r\n\r\nTodo ni\u00f1o tiene el derecho a estar protegido contra la pobreza. Si la familia o los cuidadores carecen de suficiente dinero para vivir o para criarlo, los Estados deben proporcionar al ni\u00f1o acceso a la seguridad social y a los beneficios sociales. (Art\u00edculo 26)\r\n\r\nSiguiente art\u00edculo:", 
-  "source": null, 
+  "source": "aecc6f33db6a4367bcc649f74494d309", 
   "featured": false, 
   "author_tags": [], 
   "image": "6667204498a3402fac858224711b773b", 
